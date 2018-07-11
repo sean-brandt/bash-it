@@ -1,5 +1,4 @@
 .atom-build.json
-*/enabled/*
 .DS_Store
 custom/*
 !custom/example.bash
@@ -14,4 +13,3 @@ bats
 .idea
 *.sublime-workspace
 *.sublime-project
-enabled/*
